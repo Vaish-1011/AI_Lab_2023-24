@@ -81,7 +81,7 @@ Step 7: Stop the program.<br>
 	)
   	(:goal (and (hasbananas)))
 )
-``
+```
 ### Output/Plan:
 
 ![image](https://github.com/Vaish-1011/AI_Lab_2023-24/assets/135130074/2bd02ac1-5cf4-4f66-8d4a-5c70e05245a5)

@@ -66,6 +66,11 @@ Step 10 : Obtain the plan for given problem.<br>
 ```
 
 ### Output/Plan:
+## Problem 1:
+![image](https://github.com/Vaish-1011/AI_Lab_2023-24/assets/135130074/6a0819ac-bf8f-4b87-8621-729fd537a048)
+
+## Problem 2:
+![image](https://github.com/Vaish-1011/AI_Lab_2023-24/assets/135130074/5836a2ec-7610-4945-aedf-5b0ed4abac3c)
 
 
 
